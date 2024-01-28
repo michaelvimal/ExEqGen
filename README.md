@@ -81,5 +81,4 @@ Our model achieves the following performance:
 | ExEqGen (RoBERTa-base)  |  62.75   |   84.19   |
 | ExEqGen (RoBERTa-large) |  68.18   |   85.29   |
 
-## FinQANet and ELASTIC results are directly obtained from the original paper. 
-
+>📋  FinQANet and ELASTIC results are directly obtained from the original paper. 
